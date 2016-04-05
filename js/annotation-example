@@ -1,0 +1,18 @@
+var layout = {
+  showlegend: false,
+  annotations: [
+    {
+      x: 2,
+      y: 5,
+      xref: 'x',
+      yref: 'y',
+      text: 'Annotation Text',
+      showarrow: true,
+      arrowhead: 7,
+      ax: 0,
+      ay: -40
+    }
+  ]
+};
+Plotly.newPlo
+
